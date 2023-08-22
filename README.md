@@ -1,4 +1,4 @@
-# Resume in Images
+# Portfolio Images
 
 Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated on the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have +20 years working on Computer Networks with experience in Security, HPC and Mobile. Recently, I've been shitfting the gears for everything's Data and Education, BI and Decision-making processes. 
 
