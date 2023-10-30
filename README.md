@@ -1,15 +1,15 @@
 # Portfolio Images
 
-Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated on the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have +20 years working on Computer Networks with experience in Security, HPC and Mobile. Recently, I've been shitfting the gears for everything's Data and Education, BI and Decision-making processes. 
+Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have +20 years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. 
 
-Instead of a wordy Resume, here's a more relaxed collage of image with important documentation of my work as most of it is open source.
+Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source.
 
 <hr />
 
 <p align="center">
   
 <img width="662" alt="image" style="align: center" src="https://github.com/ggmartins/ggmartins/assets/2147779/007df795-700f-4fb1-8b35-1dec739a5c04"><br>
-  Figure 1. This is the Netrics backend stack I'm resposible for. Some of this is WIP but most has been in prod for ~2 years and crossed the half terabyte mark of data volume. The stack include, for example, small golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel python data ingestion, kafka producer/consumers. 
+  Figure 1. This is the Netrics backend stack I'm resposible for. Some of this is WIP but most has been in prod for ~2 years and crossed the half-terabyte mark of data volume. The stack includes, for example, small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel python data ingestion, kafka producer/consumers. 
 </p>
 
 <hr />
@@ -22,13 +22,19 @@ Instead of a wordy Resume, here's a more relaxed collage of image with important
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/8cd6c9cb-3dea-4e09-ac75-9656139882d3)
 <p align="center">
-  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speedtest showing that high performance multiplayer games need to have Netrics installed.
+  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speedtest. High-performance multiplayer games need to have Netrics installed and keep an eye on their performance overtime.
 </p>
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/e6ac02e7-c2a4-45bb-9368-bcf8222b8f3c)
 <p align="center">
   Figure 4. Campus deployment of Netrics, showing high-latency for an outlier (Booth School). Image extracted from Looker Studio.
+</p>
+<hr />
+
+![image<img width="1304" alt="portifolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
+<p align="center">
+  Figure 5. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than high-income? What does it mean to be an underserved or unserved area in terms of broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
 </p>
 <hr />
 
@@ -43,12 +49,12 @@ Instead of a wordy Resume, here's a more relaxed collage of image with important
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/70d63771-0383-45b7-a8da-927d42e4c779)
 <p align="center">
-    Figure 5. Netrics Passive Schematics developed circa 2015. A $200 kit (Jetson Nano 472 GFLOPS) for high performance passive packet capture, network monitoring and ML inference.   
+    Figure 6. Netrics Passive Schematics developed circa 2015. A $200 kit (Jetson Nano 472 GFLOPS) for high-performance passive packet capture, network monitoring and ML inference.   
 </p>
 
 <hr />
 
 <img width="834" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/24fe1c12-0758-4c5b-8921-7a086f522343">
 <p align="center">
-      Figure 6. My earlier work (circa 2009-2011) on Deep Packet Inspection (DPI) for Alcatel-Lucent programming CloudShield/IBM equipment (PacketC / C ). I was the prrincipal engineer for the protocol/app service detection intelligence of the Traffic Control Engine called Agya. Solution deployed in latin america region, mainly in Brazil. 
+      Figure 7. My earlier work (circa 2009-2011) on Deep Packet Inspection (DPI) for Alcatel-Lucent, programming CloudShield/IBM equipment (PacketC / C ). I was the principal engineer for the protocol/app service detection intelligence of the network traffic control engine called Agya. The solution was deployed in the Latin America region, mainly in Brazil. 
 </p>
