@@ -9,7 +9,7 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 <p align="center">
   
 <img width="662" alt="image" style="align: center" src="https://github.com/ggmartins/ggmartins/assets/2147779/007df795-700f-4fb1-8b35-1dec739a5c04"><br>
-  Figure 1. This is the Netrics backend stack I'm resposible for. Some of this is WIP but most has been in prod for ~2 years and crossed the half-terabyte mark of data volume. The stack includes, for example, small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel python data ingestion, kafka producer/consumers. 
+  Figure 1. This is the Netrics backend stack I'm resposible for. Some of this is WIP but most has been in prod for ~2 years and crossed the half-terabyte mark of encrypted data. The stack includes, small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel python data ingestion, kafka producer/consumers. 
 </p>
 
 <hr />
