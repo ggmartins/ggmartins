@@ -32,7 +32,7 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 </p>
 <hr />
 
-![image<img width="1304" alt="portifolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
+<img width="1304" alt="portifolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
 <p align="center">
   Figure 5. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than high-income? What does it mean to be an underserved or unserved area in terms of broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
 </p>
