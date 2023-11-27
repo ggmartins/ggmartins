@@ -9,32 +9,32 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 <p align="center">
   
 <img width="662" alt="image" style="align: center" src="https://github.com/ggmartins/ggmartins/assets/2147779/007df795-700f-4fb1-8b35-1dec739a5c04"><br>
-  Figure 1. This is the Netrics backend stack I'm resposible for. Some of this is WIP but most has been in prod for ~2 years and crossed the half-terabyte mark of encrypted data. The stack includes, small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel python data ingestion, kafka producer/consumers. 
+  Figure 1. This is the Netrics backend stack I'm responsible for. Some of this is WIP but most have been in prod for 3 years and crossed the 1 billion data-point mark of encrypted data. The stack includes small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel Python data ingestion, Kafka producer/consumers. 
 </p>
 
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/eecf4d41-415c-465e-a19e-be0f16e1401b)
 <p align="center">
-  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISP to make sure internet consumers are getting a fair performance out from their contracted services.
+  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services.
 </p>
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/8cd6c9cb-3dea-4e09-ac75-9656139882d3)
 <p align="center">
-  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speedtest. High-performance multiplayer games need to have Netrics installed and keep an eye on their performance overtime.
+  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test. High-performance multiplayer games must have Netrics installed and keep an eye on their performance over time.
 </p>
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/e6ac02e7-c2a4-45bb-9368-bcf8222b8f3c)
 <p align="center">
-  Figure 4. Campus deployment of Netrics, showing high-latency for an outlier (Booth School). Image extracted from Looker Studio.
+  Figure 4. Campus deployment of Netrics, showing high latency for an outlier (Booth School). Image extracted from Looker Studio.
 </p>
 <hr />
 
 <img width="1304" alt="portifolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
 <p align="center">
-  Figure 5. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than high-income? What does it mean to be an underserved or unserved area in terms of broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
+  Figure 5. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than the high-income? What does it mean to be an underserved or unserved area regarding broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
 </p>
 <hr />
 
