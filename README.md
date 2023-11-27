@@ -58,3 +58,14 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 <p align="center">
       Figure 7. My earlier work (circa 2009-2011) on Deep Packet Inspection (DPI) for Alcatel-Lucent, programming CloudShield/IBM equipment (PacketC / C ). I was the principal engineer for the protocol/app service detection intelligence of the network traffic control engine called Agya. The solution was deployed in the Latin America region, mainly in Brazil. 
 </p>
+
+#### A few of my certificates:
+<img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/3e824c62-d935-4227-97da-6359cde154b5">
+<img width="800" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/c69713a9-d0b2-4af1-bf81-8bfe66ebb832">
+<img width="792" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/76b65502-14cc-41ea-acb2-615731fd4bc5">
+<img width="783" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/e297cab0-cab6-4661-b9a6-2c5f67b66615">
+<img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/b9efa968-1ae0-4165-862e-9f4a6be685b7">
+
+
+
+
