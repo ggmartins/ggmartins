@@ -65,6 +65,8 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 <img width="792" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/76b65502-14cc-41ea-acb2-615731fd4bc5">
 <img width="783" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/e297cab0-cab6-4661-b9a6-2c5f67b66615">
 <img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/b9efa968-1ae0-4165-862e-9f4a6be685b7">
+![image](https://github.com/ggmartins/ggmartins/assets/2147779/4ee22e94-aec7-4e5e-a088-da95ba7e8851)
+
 
 
 
