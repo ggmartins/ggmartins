@@ -1,8 +1,8 @@
 # Portfolio Images
 
-Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have +20 years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. 
+Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have +20 years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. My latest project is running at [https://beadchallenge.org](https://beadchallenge.org) with a serverless backend.
 
-Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source.
+Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source. Also, check out my latest work on UI dashboarding IEI Netrics data on [https://tigerteam.io](https://tigerteam.io).
 
 <hr />
 
@@ -32,9 +32,15 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 </p>
 <hr />
 
+<img height="300" src="https://github.com/ggmartins/ggmartins/assets/2147779/3acbd407-58ae-47f3-868a-9e68dc2b0481">
+<p align="center">
+  Figure 5. BEADChallenge.org analytics, where the internet speeds are lower (underserved) in IL, USA?
+</p>
+<hr />
+
 <img width="1304" alt="portifolio_analytics1" src="https://github.com/ggmartins/ggmartins/assets/2147779/7e4c2035-8a0b-4ec9-8437-c89227fff129">
 <p align="center">
-  Figure 5. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than the high-income? What does it mean to be an underserved or unserved area regarding broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
+  Figure 6. Data analysis work for the Internet Equity Initiative group. Does the low-income population have worse internet performance than the high-income? What does it mean to be an underserved or unserved area regarding broadband infrastructure? Is the broadband evolving in the US (2019 - 2021 comparison)?
 </p>
 <hr />
 
@@ -49,14 +55,14 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/70d63771-0383-45b7-a8da-927d42e4c779)
 <p align="center">
-    Figure 6. Netrics Passive Schematics developed circa 2015. A $200 kit (Jetson Nano 472 GFLOPS) for high-performance passive packet capture, network monitoring and ML inference.   
+    Figure 7. Netrics Passive Schematics developed circa 2015. A $200 kit (Jetson Nano 472 GFLOPS) for high-performance passive packet capture, network monitoring and ML inference.   
 </p>
 
 <hr />
 
 <img width="834" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/24fe1c12-0758-4c5b-8921-7a086f522343">
 <p align="center">
-      Figure 7. My earlier work (circa 2009-2011) on Deep Packet Inspection (DPI) for Alcatel-Lucent, programming CloudShield/IBM equipment (PacketC / C ). I was the principal engineer for the protocol/app service detection intelligence of the network traffic control engine called Agya. The solution was deployed in the Latin America region, mainly in Brazil. 
+      Figure 8. My earlier work (circa 2009-2011) on Deep Packet Inspection (DPI) for Alcatel-Lucent, programming CloudShield/IBM equipment (PacketC / C ). I was the principal engineer for the protocol/app service detection intelligence of the network traffic control engine called Agya. The solution was deployed in the Latin America region, mainly in Brazil. 
 </p>
 
 #### A few of my certificates:
