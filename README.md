@@ -1,22 +1,21 @@
 # Portfolio Images
 
-Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have +20 years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. My latest project is running at [https://beadchallenge.org](https://beadchallenge.org) with a serverless backend.
+Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have 20+ years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. My latest project is running at [https://beadchallenge.org](https://beadchallenge.org) with a serverless backend.
 
-Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source. Also, check out my latest work on UI dashboarding IEI Netrics data on [https://tigerteam.io](https://tigerteam.io).
+Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source (opinions are my own). Also, check out my latest WIP on UI dashboarding IEI Netrics data on [https://tigerteam.io](https://tigerteam.cs.uchicago.edu).
 
 <hr />
 
 <p align="center">
-  
-<img width="662" alt="image" style="align: center" src="https://github.com/ggmartins/ggmartins/assets/2147779/007df795-700f-4fb1-8b35-1dec739a5c04"><br>
-  Figure 1. This is the Netrics backend stack I'm responsible for. Some of this is WIP but most have been in prod for 3 years and crossed the 1 billion data-point mark of encrypted data. The stack includes small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel Python data ingestion, Kafka producer/consumers. 
+  <img width="1600" alt="image" style="align: center" src="https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e"><br>
+  Figure 1. This is the Netrics backend stack I was responsible for on the left. In prod for 3 years and crossed the 1 billion data-point mark of encrypted data. The stack includes small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel Python data ingestion, Kafka producer/consumers. On the right, is the System Design for https://beadchallenge.org. 
 </p>
 
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/eecf4d41-415c-465e-a19e-be0f16e1401b)
 <p align="center">
-  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services.
+  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency compared to the other technologies. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services.
 </p>
 <hr />
 
@@ -32,9 +31,10 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 </p>
 <hr />
 
-<img height="300" src="https://github.com/ggmartins/ggmartins/assets/2147779/3acbd407-58ae-47f3-868a-9e68dc2b0481">
+<img height="300" src="https://github.com/ggmartins/ggmartins/assets/2147779/5934d139-a39f-4c83-8045-a9615723b430">
+
 <p align="center">
-  Figure 5. BEADChallenge.org analytics, where the internet speeds are lower (underserved) in IL, USA?
+  Figure 5. BEADChallenge.org analytics, where the internet speeds are lower (unserved/underserved) in IL, USA? / Satellite Internet Performance: The key technology to bring Internet to unserved. 
 </p>
 <hr />
 
@@ -46,7 +46,7 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ix5GTHW4D3U"><img width="720" height="460" src="https://img.youtube.com/vi/ix5GTHW4D3U/0.jpg"></a><br>
-  Video 1. Netrics Passive in action (aka NetMicroscope). Software implemented in C with libwebsockets, libpcap, html, javascript, jquery, chartjs.<br>[WSJ Study](https://www.wsj.com/graphics/faster-internet-not-worth-it/)
+  Video 1. First prototype of Netrics Passive in action (aka NetMicroscope). Software implemented in C with libwebsockets, libpcap, html, javascript, jquery, chartjs.<br>[WSJ Study](https://www.wsj.com/graphics/faster-internet-not-worth-it/)
 </p>
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/099f663f-fc2b-4966-9665-47feed869d8b)
