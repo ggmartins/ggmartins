@@ -34,7 +34,7 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 <img height="300" src="https://github.com/ggmartins/ggmartins/assets/2147779/5934d139-a39f-4c83-8045-a9615723b430">
 
 <p align="center">
-  Figure 5. BEADChallenge.org analytics, where the internet speeds are lower (unserved/underserved) in IL, USA? / Satellite Internet Performance: The key technology to bring Internet to unserved. 
+  Figure 5. BEADChallenge.org analytics, where the internet speeds are lower (unserved/underserved) in IL, USA? / Satellite Internet Performance: The key technology responsible for bringing Internet to unserved. (Download / Upload in Mbps).
 </p>
 <hr />
 
