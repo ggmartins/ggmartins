@@ -1,6 +1,6 @@
 # Portfolio Images
 
-Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/about/leadership-staff/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have 20+ years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. My latest project is running at [https://beadchallenge.org](https://beadchallenge.org) with a serverless backend.
+Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/iot-lab/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have 20+ years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. My latest project is running at [https://beadchallenge.org](https://beadchallenge.org) with a serverless backend.
 
 Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source (opinions are my own). Also, check out my latest WIP on UI dashboarding IEI Netrics data [here](http://tigerteam.cs.uchicago.edu).
 
