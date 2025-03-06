@@ -2,7 +2,7 @@
 
 Hi, I'm a Senior Software Engineer working at [CRSP Center for Research in Security Prices](https://crsp.org). I'm a member of the Market Indexes Software Development team responsible for the systems that produce the data that backs legendary securities like [MGC](https://investor.vanguard.com/investment-products/etfs/profile/mgc) and [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti#overview). I just completed my first year at CRSP and have been shifting gears toward everything data and finance data. Previous to CRSP I worked at [DSI](https://datascience.uchicago.edu/iot-lab/) Data Science Institute allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I'm fascinated by the decision-making processes and data-driven visualizations, finance, and product design. I'm known for my previous experience with computer networks leading the full-stack work of [https://beadchallenge.org](https://beadchallenge.org) and [Netrics](http://tigerteam.cs.uchicago.edu).
 
-Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source. Disclaimer: some conclusions here are my own. 
+Instead of a wordy cv/resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source. Disclaimer: some conclusions here are my own. 
 
 <hr />
 
