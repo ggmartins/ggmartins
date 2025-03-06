@@ -1,27 +1,27 @@
 # Portfolio Images
 
-Hi, I'm a Senior Software Engineer working for [DSI](https://datascience.uchicago.edu/iot-lab/) Data Science Institute. I'm currently allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I have 20+ years of working on Computer Networks with experience in Security, HPC, and Mobile. Recently, I've been shifting the gears for everything's Data and Education, BI, and Decision-making processes. My latest project is running at [https://beadchallenge.org](https://beadchallenge.org) with a serverless backend.
+Hi, I'm a Senior Software Engineer working at [CRSP Center for Research in Security Prices](https://crsp.org). I'm a member of the Market Indexes Software Development team responsible for the systems that produce the data that backs the legendary market indexes like [MGC](https://investor.vanguard.com/investment-products/etfs/profile/mgc) and [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti#overview). I just completed my first year at CRSP and have been shifting gears toward everything data and finance data. Previous to CRSP I worked at [DSI](https://datascience.uchicago.edu/iot-lab/) Data Science Institute allocated to the Internet Equity Initiative ([IEI](https://internetequity.uchicago.edu/)) as a Backend/Data Engineer. I'm fascinated by the decision-making processes and data-driven visualizations, finance, and product design. I'm known for my previous experience with computer networks leading the full-stack work of [https://beadchallenge.org](https://beadchallenge.org) and [Netrics](http://tigerteam.cs.uchicago.edu).
 
-Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source (opinions are my own). Also, check out my latest WIP on UI dashboarding IEI Netrics data [here](http://tigerteam.cs.uchicago.edu).
+Instead of a wordy Resume, here's a more relaxed collage of images with important documentation of my work as most of it is open source. Disclaimer: some conclusions here are my own. 
 
 <hr />
 
 <p align="center">
   <img width="1600" alt="image" style="align: center" src="https://github.com/ggmartins/ggmartins/assets/2147779/4ae16569-8578-4131-8f15-949d15729f5e"><br>
-  Figure 1. This is the Netrics backend stack I was responsible for on the left. In prod for 3 years and crossed the 1 billion data-point mark of encrypted data. The stack includes small Golang data collection applications, python IaC (Serverless AWS code), terraform code, SQL database schema, parallel Python data ingestion, Kafka producer/consumers. On the right, is the System Design for https://beadchallenge.org. 
+  Figure 1. This is the Netrics backend stack I was responsible for on the left. In prod for 3 years and crossed the 1 billion data-point mark of encrypted data. The stack includes small Golang data collection applications, python and terraform IaC, SQL database, parallel Python data ingestion, Kafka producer/consumers. On the right, is the System Design for https://beadchallenge.org. 
 </p>
 
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/eecf4d41-415c-465e-a19e-be0f16e1401b)
 <p align="center">
-  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency compared to the other technologies. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services.
+  Figure 2. Aggregated average latency (active unloaded ICMP) for all Netrics deployed devices in Chicago city. As expected: fiber tech has lower latency compared to the other technologies. Data warehoused on TimescaleDB, image extracted from Superset BI tool. Estimated devices deployed: 120 in Chicago area. We benchmark the internet for ISPs to ensure internet consumers are getting a fair performance from their contracted services and understand any significant differences between regions that are considered to be antagonistic from their socio-economic characteristics.
 </p>
 <hr />
 
 ![image](https://github.com/ggmartins/ggmartins/assets/2147779/8cd6c9cb-3dea-4e09-ac75-9656139882d3)
 <p align="center">
-  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test. High-performance multiplayer games must have Netrics installed and keep an eye on their performance over time.
+  Figure 3. A Netrics Grafana dashboard with fluctuation on both latency and speed test. Hypothesis to be investigated: fluctuations like this are unperceived by internet users, but they might impact high-performance game players.  
 </p>
 <hr />
 
@@ -66,14 +66,18 @@ Instead of a wordy Resume, here's a more relaxed collage of images with importan
 </p>
 
 #### A few of my certificates:
-<img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/3e824c62-d935-4227-97da-6359cde154b5">
-<img width="800" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/c69713a9-d0b2-4af1-bf81-8bfe66ebb832">
-<img width="792" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/76b65502-14cc-41ea-acb2-615731fd4bc5">
-<img width="783" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/e297cab0-cab6-4661-b9a6-2c5f67b66615">
-<img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/b9efa968-1ae0-4165-862e-9f4a6be685b7">
-<img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/4ee22e94-aec7-4e5e-a088-da95ba7e8851">
-
-
+<table>
+<tr>
+<td><img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/3e824c62-d935-4227-97da-6359cde154b5"></td>
+<td><img width="800" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/c69713a9-d0b2-4af1-bf81-8bfe66ebb832"></td>
+<td><img width="792" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/76b65502-14cc-41ea-acb2-615731fd4bc5"></td>
+</tr>
+<tr>
+<td><img width="783" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/e297cab0-cab6-4661-b9a6-2c5f67b66615"></td>
+<td><img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/b9efa968-1ae0-4165-862e-9f4a6be685b7"></td>
+<td><img width="798" alt="image" src="https://github.com/ggmartins/ggmartins/assets/2147779/4ee22e94-aec7-4e5e-a088-da95ba7e8851"></td>
+</tr>
+</table>
 
 
 
